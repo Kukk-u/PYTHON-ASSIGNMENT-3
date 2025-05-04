@@ -1,0 +1,1 @@
+it takes a number as input and using math module it calculates it's square root, logarithm and sine(in radians).

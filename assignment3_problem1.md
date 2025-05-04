@@ -1,0 +1,1 @@
+it  takes a number as argument from user and using recursion it provides factorial of that number.
